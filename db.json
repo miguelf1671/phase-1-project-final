@@ -1,0 +1,56 @@
+{
+    "games" : [
+        {
+            "id" : 1,
+            "name": "Spiderman Remastered",
+            "release_year": 2018,
+            "system_reviewed_on":"PS5",
+            "review" : "Spider-Man Remastered for the PlayStation 5 offers a stunning upgrade to the beloved 2018 title. Visually, it's a feast for the eyes with improved character models, environments, and ray-tracing technology. The game runs smoothly at 60 fps, and the new haptic feedback and adaptive triggers make swinging and combat feel more immersive, The game includes all DLC and a new expansion, adding depth to an engaging story. Reduced load times and improved controller feedback enhance the overall experience. Spider-Man Remastered is a must-play, showcasing the PS5's power and offering a thrilling adventure that captures the essence of being the iconic web-slinger.",
+            "image": "./assets/spiderman-remastered.jpg",
+            "likes": 0,
+            "comments": []
+        },
+        {
+            "id": 2, 
+            "name": "God Of War Ragnarok",
+            "release_year": 2022,
+            "system_reviewed_on": "PS5",
+            "review":"God of War: Ragnarok continues the epic saga of Kratos and Atreus on the PlayStation 5, and it's nothing short of extraordinary. This sequel takes full advantage of the PS5's hardware, delivering a visually stunning and emotionally resonant experience. Visually, God of War: Ragnarok is a masterpiece. The character models, landscapes, and mythical creatures are meticulously detailed, creating a Norse world that feels alive and awe-inspiring. The game runs at a smooth 60 fps, ensuring seamless gameplay that immerses players in the brutal and beautiful Norse mythology. Gameplay remains as intense and satisfying as ever. Kratos' combat prowess has evolved, and the PS5's DualSense controller enhances the experience with tactile feedback that makes each swing of the Leviathan Axe and clash of the Blades of Chaos feel visceral and impactful. The story of Kratos and Atreus continues to captivate, blending action with deep character development and exploration of Norse mythology. The PS5's SSD reduces load times to a minimum, allowing players to stay immersed in the world without interruption. God of War: Ragnarok is a showcase of the PS5's capabilities, pushing the boundaries of what's possible in gaming. It's a must-play for fans of the series and newcomers alike, offering a breathtaking journey through Norse mythology and solidifying Kratos as one of gaming's greatest icons.",
+            "image":"./assets/god-of-war.jpg",
+            "likes":0,
+            "comments":[]
+        },
+        {
+            "id":3,
+            "name":"The legend of Zelda: Tears of the kingdom",
+            "release_year": 2023,
+            "system_reviewed_on": "SWITCH",
+            "review":"The Legend of Zelda: Tears of the Kingdom brings a fresh and enchanting adventure to the Nintendo Switch, continuing the legacy of one of gaming's most iconic franchises. This latest installment showcases the magic of the series while introducing new elements that make it a must-play for fans and newcomers alike. Visually, Tears of the Kingdom is a treat for the eyes. The art style beautifully blends the classic Zelda aesthetic with modern graphics, creating a world that feels both nostalgic and vibrant. The Nintendo Switch's hardware limitations are skillfully worked around to provide a smooth and enchanting experience. Gameplay remains a highlight, with Link embarking on a quest filled with puzzles, combat, and exploration. The game leverages the unique features of the Nintendo Switch, such as gyro controls and touchscreen interactions, to enhance the gameplay and immerse players in the adventure. The story is rich and engaging, with Link once again stepping into the role of the hero to save Hyrule from a new threat. Tears of the Kingdom introduces fresh characters and intriguing lore that adds depth to the Zelda universe. Tears of the Kingdom is a testament to the enduring appeal of The Legend of Zelda series. It retains the essence of what makes Zelda games special while incorporating new elements that keep the experience exciting. Whether you're a long-time fan or a newcomer to the series, Tears of the Kingdom is a captivating journey that will leave you eagerly awaiting the next chapter in Link's legendary adventures.",
+            "image": "./assets/zelda_tears.png",
+            "likes": 0,
+            "comments":[]
+        },
+        {
+            "id": 4,
+            "name": "StarField",
+            "release_year": 2023,
+            "system_reviewed_on": "XBOX",
+            "review": "Starfield, the highly anticipated space exploration game from Bethesda Game Studios, is set to redefine the sci-fi RPG genre on the Xbox platform. This ambitious project promises to take players on an epic journey through the cosmos, offering a universe teeming with possibilities and adventure. Visually, Starfield is shaping up to be a breathtaking experience. The power of Xbox Series X|S allows for stunning graphics and a level of detail that brings the vastness of space to life. Expect awe-inspiring planets, intricate spacecraft, and a sense of scale that immerses players in the vast unknown. Gameplay in Starfield combines the best elements of Bethesda's open-world RPGs with a sci-fi twist. Players can expect deep character customization, dynamic storytelling, and a richly detailed open-world to explore. The choices you make will shape your journey, whether you choose to be a daring space explorer, a cunning trader, or a ruthless pirate. The story at the heart of Starfield is a closely guarded secret, but Bethesda's track record suggests a narrative that will be engaging, full of surprises, and deeply woven into the fabric of the game world. Starfield is not just a game; it's a universe waiting to be discovered. With the power of the Xbox Series X|S, this game promises to be an expansive and immersive experience that will captivate sci-fi enthusiasts and gamers alike. Prepare to embark on a cosmic odyssey like no other when Starfield lands on Xbox.",
+            "image":"./assets/starfield.jpg",
+            "likes":0,
+            "comments":[]
+        },
+        {
+            "id":5,
+            "name": "Hogwarts legacy",
+            "release_year":2023,
+            "system_reviewed_on":"PS5",
+            "review": "Hogwarts Legacy brings the enchanting world of Harry Potter to life on the PlayStation 5, offering players the chance to step into the wizarding world like never before. This open-world RPG promises a magical experience filled with adventure, discovery, and the freedom to explore Hogwarts and its surrounding realms. Visually, Hogwarts Legacy is a spellbinding achievement. The PS5's hardware capabilities allow for stunning graphics and a level of detail that transports players to a meticulously crafted rendition of the iconic wizarding school and its mystical surroundings. Every corner of Hogwarts is brimming with the charm and wonder fans have come to love. Gameplay in Hogwarts Legacy combines the allure of the Harry Potter universe with the depth of an open-world RPG. Players will create their own wizard or witch, attend classes, master spells, brew potions, and embark on quests that offer a taste of life in the magical world. The PS5's power enhances the experience, providing seamless immersion into the fantastical realm. The game's story is set in the 1800s, allowing players to explore a previously uncharted era in the Harry Potter universe. This promises a fresh narrative filled with mystery and the opportunity to shape the future of magic. Hogwarts Legacy for the PS5 is a dream come true for fans of the Harry Potter series and RPG enthusiasts alike. It offers the chance to fulfill the long-held dream of attending Hogwarts, casting spells, and exploring the magical world. Get ready to unleash your inner wizard or witch and embark on a captivating adventure when Hogwarts Legacy arrives on the PS5.",
+            "image": "./assets/hogwarts.jpg",
+            "likes":0,
+            "comments":[]
+
+
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+
+@font-face {
+    font-family: 'CustomFontName';
+    src: url('./logo-font/Wedgie Regular.ttf') format('truetype');/* Modern Browsers */
+    /* Add additional src declarations for other formats if available */
+}
+#logo:hover {
+    filter: drop-shadow(0 0 0.75rem blue)
+}
+body {
+    background-color: black;
+    color: black;
+}
+.likeButton{
+    display: flex;
+    /* Optional: Adjust alignment and spacing as needed */
+    align-items: center; /* Align items vertically in the container */
+    gap: 20px; /* Add space between the paragraph and span */
+}
+#amount{
+    font-size: 20px;
+    font-weight: bold;
+}
+#icon {
+    font-size: 30px;
+    width:auto;
+    height:auto;
+    vertical-align: middle;
+}
+
+#logo {
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'CustomFontName', sans-serif;
+}
+#formDiv{
+    display:flex;
+}
+#comment-container{
+    background-color: white;
+    height: 240px;
+    margin: 10px;
+    overflow: scroll;
+}
+#comment-container li {
+    color: black;
+}
+#comment-list{
+    width: auto;
+    border: solid white;
+}
+#commentBox{
+    height: 140px;
+    border: solid black;
+}
+hr{
+    height: 40px;
+    background-color: black;
+    border: none;
+}
+#game_reviews {
+    display:flex;
+    justify-content: center;
+
+}
+#gameImg {
+    display: flex;
+    border: 1px solid black;
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 150px; /* Set the desired width */
+    height: 200px; /* Set the desired height */
+}
+
+#game_reviews img:hover {
+    filter: drop-shadow(0 0 0.75rem blue)
+}
+#game-info {
+    color: white;
+    display: flex;
+    height: 400px;
+    justify-content:flex-start;
+    margin-top: 30px;
+    margin-left: 8%;
+}
+
+
+#game-info img {
+    height: auto;
+    margin: 7px;
+    filter: drop-shadow(0 0 1em blue)
+}
+
+#game-info div {
+    width: 400px;
+    padding: 10px;
+}
